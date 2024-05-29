@@ -1,6 +1,11 @@
 This is my super cool paper. 
 
 Written by: Me!
+
+My affiliation is York University!
+
+
+
 #introduction
 #reference:
 
